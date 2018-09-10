@@ -1,6 +1,6 @@
-# projet1
+# Web Education
 
-> College Maele est un projet d'une application web dévéloppé en VueJavaScript par Polycarpe MAKOMBO
+> Webeducation est un projet développé avec Vuejs pour une application web Educationnelle
 
 ## Build Setup
 

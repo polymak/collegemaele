@@ -1,7 +1,7 @@
 {
-  "name": "projet1",
+  "name": "webeducation",
   "version": "1.0.0",
-  "description": "Projet1 est un projet avec vue javascript pour une application web",
+  "description": "Webeducation est un projet développé avec VueJs pour une application web Educationnelle",
   "author": "Polycarpe MAKOMBO <polycarpemakombo@gmail.com>",
   "private": true,
   "scripts": {
